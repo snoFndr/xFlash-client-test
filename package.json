@@ -1,0 +1,22 @@
+{
+  "name": "xflash-client-test",
+  "version": "1.0.0",
+  "description": "xFlash client unit test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snoFndr/xFlash-client-test.git"
+  },
+  "author": "andrea fonsati",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/snoFndr/xFlash-client-test/issues"
+  },
+  "homepage": "https://github.com/snoFndr/xFlash-client-test#readme",
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}
