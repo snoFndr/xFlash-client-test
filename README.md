@@ -7,7 +7,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+This is the list of things you need to install on your local machine:
+  * [Node.js](https://nodejs.org/en/)
+  * [Git](https://git-scm.com/)
 
 ```
 Give examples
